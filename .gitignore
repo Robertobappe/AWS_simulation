@@ -1,0 +1,8 @@
+volume/
+.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
